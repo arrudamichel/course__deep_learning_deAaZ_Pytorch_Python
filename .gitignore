@@ -1,1 +1,5 @@
 .DS_Store
+cifar-10-batches-py/
+MNIST/
+data/cifar-10-python.tar.gz
+cifar-10-python.tar.gz
